@@ -19,7 +19,7 @@ implement a database and have it all integrate into the website.
 * PHP, MySQL, Linux, Apache
 
 ## System Architecture
-![System Architecture](./resources/systemArchitecture.PNG)
+![System Architecture](resources/systemArchitecture.PNG)
 
 >This is a academic project at Camosun College [www.camosun.ca](https://www.camosun.ca/)
  
