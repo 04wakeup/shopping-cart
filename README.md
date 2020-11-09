@@ -16,8 +16,10 @@ implement a database and have it all integrate into the website.
 ## Technology stack components
 
 * HTML5, CSS3, JavaScript
-* PHP, MySQL
+* PHP, MySQL, Linux, Apache
 
+## System Architecture
+![System Architecture](recources/system architecture.PNG)
 
->This is a academic project at Camosun College
+>This is a academic project at Camosun College [www.camosun.ca](https://www.camosun.ca/)
  
