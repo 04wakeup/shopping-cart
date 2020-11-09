@@ -13,13 +13,13 @@ history of their orders. As for the Owner users, they can add and remove product
 and deliver the food to the customer. For the Restaurant users they can view the orders they received. We will
 implement a database and have it all integrate into the website.
 
-## Technology stack components
+## Technology Stack
 
 * HTML5, CSS3, JavaScript
 * PHP, MySQL, Linux, Apache
 
 ## System Architecture
-![System Architecture](recources/system architecture.PNG)
+![System Architecture Banner](recources/system architecture.PNG)
 
 >This is a academic project at Camosun College [www.camosun.ca](https://www.camosun.ca/)
  
