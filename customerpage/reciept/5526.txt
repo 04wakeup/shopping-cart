@@ -1,0 +1,11 @@
+Date: 11-April-2019 12:12:58 PM
+Receipt number: 5526
+Customer name: Rolando Pacho
+Address: 337 Longacre DR
+Phone number: 15555523451
+Total before tax: CDN $5.55
+GST: CDN $0.28
+PST: CDN $0.39
+Grand total of: CDN $6.22
+
+Order ID: 526   Item: Japanese Ramen    Quantity: 1    Price: 5.55

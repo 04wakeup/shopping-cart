@@ -1,0 +1,11 @@
+Date: 18-April-2019 11:56:13 AM
+Receipt number: 4540
+Customer name: Quang Huy
+Address: 336 Longacre DR
+Phone number: 14444423451
+Total before tax: CDN $27.5
+GST: CDN $1.38
+PST: CDN $1.93
+Grand total of: CDN $30.81
+
+Order ID: 540   Item: Fried Meat Boll    Quantity: 5    Price: 5.5

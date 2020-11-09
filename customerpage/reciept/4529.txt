@@ -1,0 +1,12 @@
+Date: 11-April-2019 01:48:23 PM
+Receipt number: 4529
+Customer name: Quang Huy
+Address: 336 Longacre DR
+Phone number: 14444423451
+Total before tax: CDN $10.5
+GST: CDN $0.53
+PST: CDN $0.74
+Grand total of: CDN $11.77
+
+Order ID: 529   Item: Sushi Boat    Quantity: 1    Price: 5
+Order ID: 529   Item: Fried Meat Boll    Quantity: 1    Price: 5.5

@@ -1,0 +1,13 @@
+Date: 11-April-2019 04:28:43 PM
+Receipt number: 4533
+Customer name: Quang Huy
+Address: 336 Longacre DR
+Phone number: 14444423451
+Total before tax: CDN $16.37
+GST: CDN $0.82
+PST: CDN $1.15
+Grand total of: CDN $18.34
+
+Order ID: 533   Item: Nuts Cake    Quantity: 1    Price: 5.23
+Order ID: 534   Item: Teriyaki Rice Burger    Quantity: 1    Price: 6.14
+Order ID: 535   Item: Sashimi    Quantity: 1    Price: 5

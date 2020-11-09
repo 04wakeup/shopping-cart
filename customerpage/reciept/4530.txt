@@ -1,0 +1,15 @@
+Date: 11-April-2019 04:27:59 PM
+Receipt number: 4530
+Customer name: Quang Huy
+Address: 336 Longacre DR
+Phone number: 14444423451
+Total before tax: CDN $26.46
+GST: CDN $1.32
+PST: CDN $1.85
+Grand total of: CDN $29.63
+
+Order ID: 530   Item: Sushi Boat    Quantity: 1    Price: 5
+Order ID: 530   Item: Nuts Cake    Quantity: 1    Price: 5.23
+Order ID: 531   Item: Rost Runa    Quantity: 1    Price: 5
+Order ID: 532   Item: Sashimi    Quantity: 1    Price: 5
+Order ID: 532   Item: Cranberry Cake    Quantity: 1    Price: 6.23
