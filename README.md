@@ -1,5 +1,6 @@
 # ThinkFood
 
+
 ## Overview
 
 ThinkFood is a web application where customer can order foods online. Instead of googling each restaurant
@@ -13,10 +14,12 @@ history of their orders. As for the Owner users, they can add and remove product
 and deliver the food to the customer. For the Restaurant users they can view the orders they received. We will
 implement a database and have it all integrate into the website.
 
+
 ## Technology Stack
 
 * HTML5, CSS3, JavaScript
 * PHP, MySQL, Linux, Apache
+
 
 ## System Architecture
 ![System Architecture](resources/systemArchitecture.PNG)
