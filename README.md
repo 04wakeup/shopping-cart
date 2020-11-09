@@ -21,5 +21,5 @@ implement a database and have it all integrate into the website.
 ## System Architecture
 ![System Architecture](resources/systemArchitecture.PNG)
 
->This is a academic project at Camosun College [www.camosun.ca](https://www.camosun.ca/)
+>This is a academic project at [Camosun College](http://www.camosun.ca/)
  
